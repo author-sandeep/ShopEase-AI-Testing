@@ -1,0 +1,14 @@
+.env
+__pycache__/
+*.pyc
+venv/
+env/
+.venv/
+.pytest_cache/
+.idea/
+.vscode/
+logs/
+*.log
+models/
+book/*.md
+book/*.txt
